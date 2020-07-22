@@ -1,7 +1,7 @@
 # Mercari Price Suggestion
 This case study is based on the Kaggle Competition: https://www.kaggle.com/c/mercari-price-suggestion-challenge
 
-Detailed Blog can be found at: https://medium.com/@divyanshjain11/suggesting-the-price-of-items-for-online-platforms-using-machine-learning-8b2e424f9a48
+Detailed Blog can be found at: https://medium.com/analytics-vidhya/suggesting-the-price-of-items-for-online-platforms-using-machine-learning-8b2e424f9a48
 
 The code files are:
 | Code File | Description  | 
